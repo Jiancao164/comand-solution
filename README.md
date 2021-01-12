@@ -4,9 +4,9 @@ Instruction: Unzip the file and then the unzipped folder has two projects, "Comm
 
 Assume such directory is in the system: 
 
-     	     |--def -- ghi
-	abc--|--klm
-     	     |--gh
+		|--def -- ghi
+	   abc--|--klm
+		|--gh
 
-	tmt--|
+	   tmt--|
 	
