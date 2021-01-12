@@ -7,7 +7,7 @@ class Folder:
     parent = ""
     name = ""
 
-
+ 
 """
 simulate the following directory in system
          |--def -- ghi
